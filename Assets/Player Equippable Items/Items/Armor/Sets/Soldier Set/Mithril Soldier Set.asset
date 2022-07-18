@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28418243322f89442a9d747b765c52dc, type: 3}
+  m_Name: Mithril Soldier Set
+  m_EditorClassIdentifier: 
+  Primary: {r: 0.20078321, g: 0.3018868, b: 0.28072557, a: 1}
+  Secondary: {r: 0.20714667, g: 0.3301887, b: 0.3219859, a: 1}
+  Leather_Primary: {r: 0.15325737, g: 0.26415092, b: 0.20159192, a: 1}
+  Metal_Primary: {r: 0.33690813, g: 0.6320754, b: 0.5873531, a: 1}
+  Leather_Secondary: {r: 0, g: 0, b: 0, a: 0}
+  Metal_Dark: {r: 0.16037738, g: 0.16037738, b: 0.16037738, a: 1}
+  Metal_Secondary: {r: 0.15583839, g: 0.30756143, b: 0.3207547, a: 1}

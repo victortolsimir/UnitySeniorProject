@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 072a7664efce4cc47866206031c571b1, type: 3}
+  m_Name: Basic WoodenShield
+  m_EditorClassIdentifier: 
+  name: Basic Wooden Shield
+  icon: {fileID: 21300000, guid: 22b3b971d6eb96949b2e67ddc0ebd81e, type: 3}
+  prefab: {fileID: 5204002739667633086, guid: cda4777cded17034c961affca9a1b463, type: 3}
+  weight: 5
+  description: Basic wooden shield. Used for protection.
+  SellValue: 10
+  stackable: 0
+  equipSlot: 6
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 20
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 0
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 0
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: 0
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 20
+      modifiers: 
+    magicResist:
+      baseValue: 0
+      modifiers: 
+  mesh: {fileID: 6659305265070038995, guid: ace2aff101dfbe5419aab60853b74e30, type: 3}
+  _defaultAbilities: {fileID: 11400000, guid: d82606ad87d22a043b07910beb49f73b, type: 2}
+  uniqueAbilities: []

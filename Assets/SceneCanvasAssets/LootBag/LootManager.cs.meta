@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 43b300c58c904534e9c89507ea993539
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - table: {instanceID: 0}
+  - lootBagPrefab: {fileID: 6784037329262512724, guid: 414ecc1ad1d982c47aca37d424b4d58a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

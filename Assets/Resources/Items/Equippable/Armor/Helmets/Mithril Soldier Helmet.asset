@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Mithril Soldier Helmet
+  m_EditorClassIdentifier: 
+  name: Mithril Soldier Helmet
+  icon: {fileID: 21300000, guid: 1c0dd4d351b45b84ab6481a2a0204b21, type: 3}
+  prefab: {fileID: 4516891465330952037, guid: 861df89f4b04ece40b9dd64ce5ab68de, type: 3}
+  weight: 12
+  description: Soldier's helmet forged from mithril ore.
+  SellValue: 189
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 0
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 54
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 0
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 0
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: 0
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 18
+      modifiers: 
+    magicResist:
+      baseValue: 18
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 2734931492105344886, guid: 471bddabaf708394182122bf3ba61c6d,
+    type: 3}
+  femaleItemPieces: {fileID: 8273120245165102233, guid: 727090784dbf4d146b4b59737cef5725,
+    type: 3}
+  disable_hair: 1
+  disable_facialHair: 1
+  disable_head: 1
+  disable_body: 0
+  disable_hands: 0
+  disable_legs: 0
+  disable_feet: 0
+  armorColorBlock: {fileID: 11400000, guid: 913d8bafe90b77348bcac8b0d08c1d45, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d3b3e0d54938b44ea3f174eeaef880f, type: 3}
+  m_Name: RumBottle
+  m_EditorClassIdentifier: 
+  name: Rum Bottle
+  icon: {fileID: 21300000, guid: ad38a9f2428f6c7488f9ed7039db9309, type: 3}
+  prefab: {fileID: 8295965547852087357, guid: 520bc97dc7ab07545b571fb84a9aa658, type: 3}
+  weight: 0.5
+  description: Rum bottle used for drinking. Does not provide much nourishment.
+  SellValue: 10
+  stackable: 0
+  restoreValue: 8

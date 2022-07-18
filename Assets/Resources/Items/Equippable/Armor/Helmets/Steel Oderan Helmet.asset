@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Steel Oderan Helmet
+  m_EditorClassIdentifier: 
+  name: Steel Oderan Helmet
+  icon: {fileID: 21300000, guid: 9cf8fa93ba1a7d445bcb6528ee4e983c, type: 3}
+  prefab: {fileID: 6815851184970213562, guid: a605b3ceb694bba4892a4562247dd5f0, type: 3}
+  weight: 20
+  description: A heavily armored helmet, from the fortress tower's of Oderan. It
+    is forged from steel.
+  SellValue: 82
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 0
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 32
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: -4
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: -4
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: -1
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 20
+      modifiers: 
+    magicResist:
+      baseValue: 20
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 2218845370534317515, guid: fb45c511caf59fe4b919815db4d8eb02,
+    type: 3}
+  femaleItemPieces: {fileID: 0}
+  disable_hair: 1
+  disable_facialHair: 1
+  disable_head: 1
+  disable_body: 0
+  disable_hands: 0
+  disable_legs: 0
+  disable_feet: 0
+  armorColorBlock: {fileID: 11400000, guid: e2fcbbfda40ff594ba2ed0a931bf1b0f, type: 2}

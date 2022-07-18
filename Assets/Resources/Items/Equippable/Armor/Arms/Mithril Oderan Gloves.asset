@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Mithril Oderan Gloves
+  m_EditorClassIdentifier: 
+  name: Mithril Oderan Gloves
+  icon: {fileID: 21300000, guid: 3e42b64723e732840980559db23df6a0, type: 3}
+  prefab: {fileID: 1651051369825340477, guid: 43c223a278dc7554797b4507dfa19a30, type: 3}
+  weight: 10
+  description: Heavy armored gloves, from the fortress tower's of Oderan. They are
+    forged from Mithril.
+  SellValue: 189
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 2
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 36
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: -4
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: -4
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: -1
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 22
+      modifiers: 
+    magicResist:
+      baseValue: 22
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 8049083463778678416, guid: 5ee7d251039115c4e828f06c53f40b00,
+    type: 3}
+  femaleItemPieces: {fileID: 0}
+  disable_hair: 0
+  disable_facialHair: 0
+  disable_head: 0
+  disable_body: 0
+  disable_hands: 1
+  disable_legs: 0
+  disable_feet: 0
+  armorColorBlock: {fileID: 11400000, guid: bc10529edaf7f124bbacf361de89817b, type: 2}

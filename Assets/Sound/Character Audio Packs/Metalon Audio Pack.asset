@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8abf9b2e6fa53444f8a534e980273352, type: 3}
+  m_Name: Metalon Audio Pack
+  m_EditorClassIdentifier: 
+  deathSounds:
+  - {fileID: 8300000, guid: 4601b524805372d4d813c8e6a857d13a, type: 3}
+  damageTakenSounds:
+  - {fileID: 8300000, guid: 5961dbf45975b0b47807738ad7e90e54, type: 3}
+  - {fileID: 8300000, guid: 05a138912edf6f14ea296e3855f0fa8e, type: 3}
+  - {fileID: 8300000, guid: bcde5eb824d649949bbcca14a7e55b67, type: 3}
+  - {fileID: 8300000, guid: 07c9b988bf903794d98df82fae7fc47f, type: 3}
+  attackSounds:
+  - {fileID: 8300000, guid: 49ec454ef94e3db4e827a1af6c43eb3a, type: 3}
+  - {fileID: 8300000, guid: f4a68178067d19a4cb1149765ab68c08, type: 3}
+  - {fileID: 8300000, guid: c5c6f526dd83dc2438de13f78a7d5989, type: 3}
+  - {fileID: 8300000, guid: 3b4f6f85faea1bd48b5dabcae12f9667, type: 3}
+  spellSounds:
+  - {fileID: 8300000, guid: 49ec454ef94e3db4e827a1af6c43eb3a, type: 3}
+  - {fileID: 8300000, guid: f4a68178067d19a4cb1149765ab68c08, type: 3}
+  - {fileID: 8300000, guid: c5c6f526dd83dc2438de13f78a7d5989, type: 3}
+  - {fileID: 8300000, guid: 3b4f6f85faea1bd48b5dabcae12f9667, type: 3}

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed6995a719cabac42a943a31fabd1b67, type: 3}
+  m_Name: Arcane Dagger
+  m_EditorClassIdentifier: 
+  name: Arcane Dagger
+  icon: {fileID: 21300000, guid: 4afef670722460648aa474d1adf1a432, type: 3}
+  prefab: {fileID: 5787443753478609352, guid: 864ea8ffb5b174041a402dbbe8f1d8d4, type: 3}
+  weight: 15
+  description: An icy arcane dagger made from quality steel.  Its lethal shape is
+    good for slicing and ripping.
+  SellValue: 325
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 6
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 0
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 0
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 25
+    physicalDamage:
+      baseValue: 25
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: 6
+      modifiers: 
+    criticalChance:
+      baseValue: 20
+      modifiers: 
+    criticalDamage:
+      baseValue: 25
+      modifiers: 
+    physicalResist:
+      baseValue: 0
+      modifiers: 
+    magicResist:
+      baseValue: 0
+      modifiers: 
+  mesh: {fileID: 3597198525011557662, guid: 93889d152cfd2fa46a1d11a7875c6890, type: 3}
+  _defaultAbilities: {fileID: 11400000, guid: 5e8ce6f15baf98b478307c7d7d9bafab, type: 2}
+  uniqueAbilities: []

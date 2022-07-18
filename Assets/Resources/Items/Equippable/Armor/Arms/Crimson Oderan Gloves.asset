@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Crimson Oderan Gloves
+  m_EditorClassIdentifier: 
+  name: Crimson Oderan Gloves
+  icon: {fileID: 21300000, guid: 4547ab7507275144fb5f0b27d4467755, type: 3}
+  prefab: {fileID: 3527524711027845855, guid: f49948271e3182245953b5f77291fabf, type: 3}
+  weight: 10
+  description: Heavy armored gloves, from the fortress tower's of Oderan. They are
+    forged from blood metal.
+  SellValue: 126
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 2
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 24
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: -3
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: -3
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: -1
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 15
+      modifiers: 
+    magicResist:
+      baseValue: 15
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 8049083463778678416, guid: 5ee7d251039115c4e828f06c53f40b00,
+    type: 3}
+  femaleItemPieces: {fileID: 0}
+  disable_hair: 0
+  disable_facialHair: 0
+  disable_head: 0
+  disable_body: 0
+  disable_hands: 1
+  disable_legs: 0
+  disable_feet: 0
+  armorColorBlock: {fileID: 11400000, guid: f789e432fb4230a46b1267768c2cd163, type: 2}

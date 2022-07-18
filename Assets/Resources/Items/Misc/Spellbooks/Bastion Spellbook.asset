@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f1772fe5c0b8d54ebfc1b0e9e3434c6, type: 3}
+  m_Name: Bastion Spellbook
+  m_EditorClassIdentifier: 
+  name: Bastion Spellbook
+  icon: {fileID: 21300000, guid: db67216da1df66c459e2f6f762f67097, type: 3}
+  prefab: {fileID: 1942575471450801917, guid: 2721aa271347f9b4b8c90cf5a405bd15, type: 3}
+  weight: 1
+  description: Unlocks the Bastion Heal Spell.
+  SellValue: 100
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  spell: {fileID: 11400000, guid: 0aceab32da7216341b1a0b11a300265d, type: 2}

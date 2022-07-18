@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca8e45d7dcc2c624da5dbcf96e1b4446, type: 3}
+  m_Name: Kill Golem
+  m_EditorClassIdentifier: 
+  _prerequisiteQuest: {fileID: 11400000, guid: ad8e9ef258c4618479ba26d2745c0541, type: 2}
+  _specialItem: {fileID: 0}
+  _questName: Defeat the Guarding Golem
+  _description: Use the key I gave you to unlock the far North door and defeat the
+    guardian
+  _introQuestDialogue: Use the key I gave you to unlock the far North door and defeat
+    the guardian
+  _activeQuestDialogue: Did you defeat the guardian yet? No? Well get to it it's
+    not gonna kill itself
+  _completedQuestDialogue: You finally killed the Guarding Golem now you can go deeper
+    into the dungeon
+  _goldReward: 100
+  _itemRewards:
+  - {fileID: 11400000, guid: 3c834715feafe9141b732e7c2b118ec9, type: 2}
+  - {fileID: 11400000, guid: d5c12dfee6ef1c040ad41cb06839f018, type: 2}
+  - {fileID: 11400000, guid: fea4528fbfb42bd48a72e0d32b63b3bc, type: 2}
+  goal:
+    _description: Kill the Guarding Golem
+    _enemyID: {fileID: 11400000, guid: 2e3985a2d3e1280419e08cc7c26cc5e1, type: 2}
+    bossExclusions: {fileID: 11400000, guid: 0c7ce13a0db8a5c4295f8e7e2fe94e46, type: 2}

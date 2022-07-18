@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28418243322f89442a9d747b765c52dc, type: 3}
+  m_Name: Leather Starter Set
+  m_EditorClassIdentifier: 
+  Primary: {r: 0.3396226, g: 0.17995614, b: 0.04966177, a: 1}
+  Secondary: {r: 0.13207546, g: 0.06624082, b: 0.0255429, a: 1}
+  Leather_Primary: {r: 0.33018863, g: 0.14332342, b: 0.0015574975, a: 1}
+  Metal_Primary: {r: 0.6037736, g: 0.6037736, b: 0.6037736, a: 1}
+  Leather_Secondary: {r: 0.40566036, g: 0.3145685, b: 0.20857063, a: 1}
+  Metal_Dark: {r: 0.39622638, g: 0.39622638, b: 0.39622638, a: 1}
+  Metal_Secondary: {r: 0.22641507, g: 0.22641507, b: 0.22641507, a: 1}

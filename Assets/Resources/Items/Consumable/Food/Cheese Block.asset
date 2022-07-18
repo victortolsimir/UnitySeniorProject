@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c33c52bb144f23b488c900f1d7d844ce, type: 3}
+  m_Name: Cheese Block
+  m_EditorClassIdentifier: 
+  name: Cheese Block
+  icon: {fileID: 21300000, guid: 9d6d186e9abf72349b7bd87b16485ccc, type: 3}
+  prefab: {fileID: 642336462871360274, guid: 78e8024b2f8c4a143849db1329bdd80b, type: 3}
+  weight: 0.5
+  description: A cut block of cheese.  Crafted from cow's milk into a delicious aged
+    delicacy.
+  SellValue: 10
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  restoreValue: 18

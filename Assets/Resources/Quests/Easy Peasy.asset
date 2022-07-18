@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca8e45d7dcc2c624da5dbcf96e1b4446, type: 3}
+  m_Name: Easy Peasy
+  m_EditorClassIdentifier: 
+  _prerequisiteQuest: {fileID: 0}
+  _specialItem: {fileID: 0}
+  _questName: Easy Peasy
+  _description: Go defeat the guard at the dungeon entrance to the west of Jakan
+  _introQuestDialogue: Hello there! We need your help in defeating the creatures
+    who took over our castle! Prove your worth by defeating the guard guarding the
+    dungeon entrance.
+  _activeQuestDialogue: Why haven't you killed the guard?
+  _completedQuestDialogue: I hope you feel good killing a defensless chicken. Monster.
+  _goldReward: 0
+  _itemRewards:
+  - {fileID: 11400000, guid: b949cf27cbcfaa343b3c5fab15290266, type: 2}
+  - {fileID: 11400000, guid: 128101892118351439e93c523cacd445, type: 2}
+  - {fileID: 11400000, guid: 928052428f69bcb42a840fd4efa79d2a, type: 2}
+  - {fileID: 11400000, guid: c00dc2a96c748744489a212d5416d5a0, type: 2}
+  - {fileID: 11400000, guid: f84a40f90d6a29345bafeb6d7eae512d, type: 2}
+  - {fileID: 11400000, guid: 6d8f381e705fae24faaf0394f791b161, type: 2}
+  - {fileID: 11400000, guid: f288d7f5b79e34c4580134f7332fac9c, type: 2}
+  - {fileID: 11400000, guid: 4bfb303b245a83140ab60dc005bc583c, type: 2}
+  - {fileID: 11400000, guid: 4bfb303b245a83140ab60dc005bc583c, type: 2}
+  - {fileID: 11400000, guid: 4bfb303b245a83140ab60dc005bc583c, type: 2}
+  - {fileID: 11400000, guid: 44081cba93fd87d4c960058b41f9e89d, type: 2}
+  goal:
+    _description: Kill the guard
+    _enemyID: {fileID: 11400000, guid: e37e484bb9ab2f146b305c14eb9123dc, type: 2}
+    bossExclusions: {fileID: 11400000, guid: 0c7ce13a0db8a5c4295f8e7e2fe94e46, type: 2}

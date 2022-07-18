@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce6cc2a7aa752464ab4a97c14135b99e, type: 3}
+  m_Name: GreaterHeal
+  m_EditorClassIdentifier: 
+  name: Greater Heal
+  description: Heal yourself for a great amount. Scales better with magic damage.
+  cost: 80
+  debuffEffects: 0
+  buffEffects: 0
+  _spellMultiplier: 0.75
+  _baseValue: 65
+  _buffValue: 0
+  _buffDuration: 0

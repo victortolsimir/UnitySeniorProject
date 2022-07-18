@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8abf9b2e6fa53444f8a534e980273352, type: 3}
+  m_Name: Cobra Audio Pack
+  m_EditorClassIdentifier: 
+  deathSounds:
+  - {fileID: 8300000, guid: 7223ce810b9ecac4992c161009affac8, type: 3}
+  damageTakenSounds:
+  - {fileID: 8300000, guid: a67f1abb230f52e408c310bb9e26d485, type: 3}
+  - {fileID: 8300000, guid: 6bcb4bcafff7a8645a27924edf9d04af, type: 3}
+  attackSounds:
+  - {fileID: 8300000, guid: 841e885cedfd65e4e8d01080e4105f79, type: 3}
+  - {fileID: 8300000, guid: d4f4646f87d3bc74ea5bba59cc545cfa, type: 3}
+  spellSounds:
+  - {fileID: 8300000, guid: 7e6d24113f4d3dd4eb8b4dd87dc5a7bd, type: 3}

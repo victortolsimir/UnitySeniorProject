@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6059334fe3c46124080f8b126f6415fe, type: 3}
+  m_Name: Floor 3 Basic
+  m_EditorClassIdentifier: 
+  lootTable:
+  - _itemsListSO: {fileID: 11400000, guid: d15b00ed89444d24792539205abf7907, type: 2}
+    _value: 50
+  - _itemsListSO: {fileID: 11400000, guid: 91499466168e7c74db76ccf8afa3a751, type: 2}
+    _value: 4
+  - _itemsListSO: {fileID: 11400000, guid: 172928e0641a4324b8c21cf1671ec9d7, type: 2}
+    _value: 2
+  - _itemsListSO: {fileID: 11400000, guid: 2d7e85606a5d1a04b9180e9fad67c7db, type: 2}
+    _value: 10
+  - _itemsListSO: {fileID: 11400000, guid: 2d7e85606a5d1a04b9180e9fad67c7db, type: 2}
+    _value: 10
+  uniqueLootTable:
+  - _item: {fileID: 11400000, guid: 442257256249e0c4a89823adac7e0aee, type: 2}
+    _value: 50

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Crimson Elvish PlateLegs
+  m_EditorClassIdentifier: 
+  name: Crimson Elvish PlateLegs
+  icon: {fileID: 21300000, guid: f8751e9374f4bc741bd363499dca3551, type: 3}
+  prefab: {fileID: 4458060496578591426, guid: dd3611437cc802a4d9cb20ac65ec8a0d, type: 3}
+  weight: 4
+  description: Light elvish platelegs. The blood metal is enchanted with elven magic
+    to make it much lighter.
+  SellValue: 168
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 3
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 18
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 0
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 9
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: 1
+      modifiers: 
+    criticalChance:
+      baseValue: 2
+      modifiers: 
+    criticalDamage:
+      baseValue: 4
+      modifiers: 
+    physicalResist:
+      baseValue: 6
+      modifiers: 
+    magicResist:
+      baseValue: 6
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 256985108417065451, guid: cada334135945554488c7aa0f9ce9a61,
+    type: 3}
+  femaleItemPieces: {fileID: 7183699607617293930, guid: 7bef6cece061a644ea2e8677e039385f,
+    type: 3}
+  disable_hair: 0
+  disable_facialHair: 0
+  disable_head: 0
+  disable_body: 0
+  disable_hands: 0
+  disable_legs: 1
+  disable_feet: 0
+  armorColorBlock: {fileID: 11400000, guid: 9e4ea3b86dd2f5842a152fb4f2fe6a12, type: 2}

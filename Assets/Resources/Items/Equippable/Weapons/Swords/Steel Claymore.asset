@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 332e40019e4cd9040ab503f8e15fff50, type: 3}
+  m_Name: Steel Claymore
+  m_EditorClassIdentifier: 
+  name: Steel Claymore
+  icon: {fileID: 21300000, guid: cb30bc6f4f7dadc448e78babccd3dd10, type: 3}
+  prefab: {fileID: 6590928678958494773, guid: 1e293acbd018f324c99db0a863ca33fb, type: 3}
+  weight: 20
+  description: A large steel claymore.  A heavy weapon, which will not leave much
+    of the opponent if they are struck.
+  SellValue: 100
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 5
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 0
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 0
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 0
+    physicalDamage:
+      baseValue: 25
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: -6
+      modifiers: 
+    criticalChance:
+      baseValue: 3
+      modifiers: 
+    criticalDamage:
+      baseValue: 10
+      modifiers: 
+    physicalResist:
+      baseValue: 0
+      modifiers: 
+    magicResist:
+      baseValue: 0
+      modifiers: 
+  mesh: {fileID: 2964705968255582942, guid: 46cdf5834003e3a4680b130b54f5778d, type: 3}
+  _defaultAbilities: {fileID: 11400000, guid: 5fb44fc9eafed5c4cac9b9c9483194a7, type: 2}
+  uniqueAbilities: []

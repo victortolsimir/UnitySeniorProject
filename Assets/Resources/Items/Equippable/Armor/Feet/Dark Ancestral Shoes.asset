@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Dark Ancestral Shoes
+  m_EditorClassIdentifier: 
+  name: Dark Ancestral Shoes
+  icon: {fileID: 21300000, guid: cfc834e4a9af1b54697eb31494874876, type: 3}
+  prefab: {fileID: 4385220335379343712, guid: 6337b7f7c899cc542bbe830f165fec51, type: 3}
+  weight: 2
+  description: Mage Shoes from the tombs of the ancients. The cloth has been enchanted
+    with powerful magic.
+  SellValue: 189
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 4
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 21
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 21
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 0
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: 0
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 7
+      modifiers: 
+    magicResist:
+      baseValue: 21
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 4610750950391154442, guid: e7a03d028c7233a4d9d40bb7e4e0a4ea,
+    type: 3}
+  femaleItemPieces: {fileID: 4582656079073863164, guid: 03670d59a0e7db446be6c6fc153a054e,
+    type: 3}
+  disable_hair: 0
+  disable_facialHair: 0
+  disable_head: 0
+  disable_body: 0
+  disable_hands: 0
+  disable_legs: 0
+  disable_feet: 1
+  armorColorBlock: {fileID: 11400000, guid: dbe6eb90dd2afc142948fda1a0ee9f12, type: 2}

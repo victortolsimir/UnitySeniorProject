@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6059334fe3c46124080f8b126f6415fe, type: 3}
+  m_Name: Floor 3 Gold Chest
+  m_EditorClassIdentifier: 
+  lootTable:
+  - _itemsListSO: {fileID: 11400000, guid: 91499466168e7c74db76ccf8afa3a751, type: 2}
+    _value: 10
+  - _itemsListSO: {fileID: 11400000, guid: 172928e0641a4324b8c21cf1671ec9d7, type: 2}
+    _value: 7
+  - _itemsListSO: {fileID: 11400000, guid: e2313c10e2201e844860d1d5a0d68394, type: 2}
+    _value: 25
+  - _itemsListSO: {fileID: 11400000, guid: e2313c10e2201e844860d1d5a0d68394, type: 2}
+    _value: 25
+  uniqueLootTable:
+  - _item: {fileID: 11400000, guid: 0fa08e5c90cbc9146bd81637cff1baf1, type: 2}
+    _value: 100
+  - _item: {fileID: 11400000, guid: c13ac9dd31617db48ac7e991a99203ec, type: 2}
+    _value: 100

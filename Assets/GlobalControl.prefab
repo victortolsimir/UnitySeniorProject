@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5169051481413183126
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5169051481413183120}
+  - component: {fileID: 5169051481413183127}
+  m_Layer: 0
+  m_Name: GlobalControl
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5169051481413183120
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5169051481413183126}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5169051481413183127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5169051481413183126}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb8b0d5fc9868c4bb9f9473447a5db9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  testQuestController: {fileID: 0}
+  playerName: 
+  isMale: 1
+  stats:
+    maxHealth:
+      baseValue: 100
+      modifiers: 
+    currentHealth: 100
+    maxMana:
+      baseValue: 100
+      modifiers: 
+    currentMana: 100
+    maxStamina:
+      baseValue: 100
+      modifiers: 
+    currentStamina: 100
+    physicalDamage:
+      baseValue: 10
+      modifiers: 
+    magicDamage:
+      baseValue: 10
+      modifiers: 
+    attackSpeed:
+      baseValue: 30
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 0
+      modifiers: 
+    magicResist:
+      baseValue: 0
+      modifiers: 
+  abilities:
+  - {fileID: 11400000, guid: 5a9e91ae7e150a54abadbc577cddd909, type: 2}
+  spells:
+  - {fileID: 11400000, guid: e23807a63ec04b64fbcd30e02c83fd20, type: 2}
+  characterSkills:
+    swordSkill:
+      _level: 1
+      _experience: 0
+    staffSkill:
+      _level: 1
+      _experience: 0
+    shieldSkill:
+      _level: 1
+      _experience: 0
+    daggerSkill:
+      _level: 1
+      _experience: 0
+    vitality:
+      _level: 1
+      _experience: 0
+    mind:
+      _level: 1
+      _experience: 0
+    endurance:
+      _level: 1
+      _experience: 0
+    toughness:
+      _level: 1
+      _experience: 0
+    wisdom:
+      _level: 1
+      _experience: 0
+  playerPosition: {x: 0, y: 0, z: 0}
+  playerstate: 0
+  sceneBeforeBattle: MainMenu
+  battleInfo: {fileID: 11400000, guid: f08aaa016ee2fc14d8ef7b1b1918c485, type: 2}
+  bossExclusions: {fileID: 11400000, guid: 0c7ce13a0db8a5c4295f8e7e2fe94e46, type: 2}
+  enemyExclusions: {fileID: 11400000, guid: 632117273e9ca174f89cd13c1fb23ea7, type: 2}
+  itemExclusions: {fileID: 11400000, guid: 97c1174da3795294cbb32091d7e403e2, type: 2}
+  keyExclusions: {fileID: 11400000, guid: d2e03a30aebaf6b4c81576f35c399275, type: 2}
+  doorAndKeyExclusions: {fileID: 11400000, guid: b2266bf6d32daf64cb4e80a30364cb6e,
+    type: 2}
+  inventory: {fileID: 11400000, guid: 2a342f14a04972a4ea3fae3f451b0de1, type: 2}
+  equipment: {fileID: 11400000, guid: 0cf1c41b755ed17408217db196d643f8, type: 2}
+  movingToPrevFloor: 0
+  cameFromNextFloor: 0
+  spawnID: {fileID: 0}

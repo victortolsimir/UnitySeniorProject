@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca8e45d7dcc2c624da5dbcf96e1b4446, type: 3}
+  m_Name: The End
+  m_EditorClassIdentifier: 
+  _prerequisiteQuest: {fileID: 11400000, guid: 35c2af06c0c2f174e9ac00919cc8e562, type: 2}
+  _specialItem: {fileID: 0}
+  _questName: It's All Over Now
+  _description: The mastermind behind is on the north side of the 5th floor. Go find
+    out who it is and stop them!
+  _introQuestDialogue: You investigated the west and east sides all that is left
+    is the north so they must be there! Go stop them!
+  _activeQuestDialogue: Hurry! They said it was already too late!
+  _completedQuestDialogue: Thank you! You saved our castle from the traitor Stu!
+  _goldReward: 300
+  _itemRewards:
+  - {fileID: 11400000, guid: 1242e9d75d130f4409238961fe5a504c, type: 2}
+  goal:
+    _description: Stop the mastermind on the north side of the 5th floor
+    _enemyID: {fileID: 11400000, guid: cfa97c1feceefb04c8cb94b0174e69bc, type: 2}
+    bossExclusions: {fileID: 11400000, guid: 0c7ce13a0db8a5c4295f8e7e2fe94e46, type: 2}

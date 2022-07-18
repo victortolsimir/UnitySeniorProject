@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca8e45d7dcc2c624da5dbcf96e1b4446, type: 3}
+  m_Name: Kill The King Cobra
+  m_EditorClassIdentifier: 
+  _prerequisiteQuest: {fileID: 11400000, guid: a8bf7517307299a449d9b30b31fbc978, type: 2}
+  _specialItem: {fileID: 0}
+  _questName: Kill The King
+  _description: The King Cobra is furious that you killed his queen. You must defeat
+    him as well.
+  _introQuestDialogue: The King Cobra is looking to avenge his kin. Please defeat
+    him or he's going to kill everyone!
+  _activeQuestDialogue: Hurry! Defeat him before it's too late!
+  _completedQuestDialogue: Thank goodness you stopped him before any serious damage
+    was done
+  _goldReward: 160
+  _itemRewards:
+  - {fileID: 11400000, guid: a384c94ba22e4c948b610738e7ef0fbc, type: 2}
+  - {fileID: 11400000, guid: 4b91bcc19255a1c42b588d2ade419325, type: 2}
+  - {fileID: 11400000, guid: 2167d7a50c26eff40a5842c171ed80c8, type: 2}
+  - {fileID: 11400000, guid: d5c12dfee6ef1c040ad41cb06839f018, type: 2}
+  goal:
+    _description: Defeat the King Cobra
+    _enemyID: {fileID: 11400000, guid: dace7d46ea9eeaa4b803140344bea459, type: 2}
+    bossExclusions: {fileID: 11400000, guid: 0c7ce13a0db8a5c4295f8e7e2fe94e46, type: 2}

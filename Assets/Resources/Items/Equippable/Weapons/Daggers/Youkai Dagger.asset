@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed6995a719cabac42a943a31fabd1b67, type: 3}
+  m_Name: Youkai Dagger
+  m_EditorClassIdentifier: 
+  name: Youkai Dagger
+  icon: {fileID: 21300000, guid: 8ea285cdc0462504c90c11545276791f, type: 3}
+  prefab: {fileID: 1114591254446729731, guid: 3c4edb753e2224d4ab752af0c39ccd51, type: 3}
+  weight: 15
+  description: A dagger from the far east.  Used by those trained in the art of stealth.
+  SellValue: 210
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 6
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 0
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 0
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 15
+    physicalDamage:
+      baseValue: 15
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: 6
+      modifiers: 
+    criticalChance:
+      baseValue: 15
+      modifiers: 
+    criticalDamage:
+      baseValue: 20
+      modifiers: 
+    physicalResist:
+      baseValue: 0
+      modifiers: 
+    magicResist:
+      baseValue: 0
+      modifiers: 
+  mesh: {fileID: 6224965864840437437, guid: a6dfc559d6e65e6449c56924089c16e1, type: 3}
+  _defaultAbilities: {fileID: 11400000, guid: 5e8ce6f15baf98b478307c7d7d9bafab, type: 2}
+  uniqueAbilities: []

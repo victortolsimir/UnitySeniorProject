@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Hunter's Cape
+  m_EditorClassIdentifier: 
+  name: Hunter's Cape
+  icon: {fileID: 21300000, guid: 34a845f958ef029469c148e67d34d98c, type: 3}
+  prefab: {fileID: 2773808935017333311, guid: 4b1da91f50ff98c488a77c40b0c2cfca, type: 3}
+  weight: 5.8
+  description: The cloak of an expert hunter.
+  SellValue: 100
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 7
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 0
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 0
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 20
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: 1
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 0
+      modifiers: 
+    magicResist:
+      baseValue: 0
+      modifiers: 
+  isCape: 1
+  itemPieces: {fileID: 4132134277522353292, guid: fc98fd37d13674a4db6035c46fbeabfe,
+    type: 3}
+  femaleItemPieces: {fileID: 0}
+  disable_hair: 0
+  disable_facialHair: 0
+  disable_head: 0
+  disable_body: 0
+  disable_hands: 0
+  disable_legs: 0
+  disable_feet: 0
+  armorColorBlock: {fileID: 0}

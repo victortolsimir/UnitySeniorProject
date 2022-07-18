@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8abf9b2e6fa53444f8a534e980273352, type: 3}
+  m_Name: Bee Audio Pack
+  m_EditorClassIdentifier: 
+  deathSounds:
+  - {fileID: 8300000, guid: f537827e31f64d747a68045f507f8625, type: 3}
+  damageTakenSounds:
+  - {fileID: 8300000, guid: dc35ffe081173f44ea2f7d1738e74b13, type: 3}
+  attackSounds:
+  - {fileID: 8300000, guid: 0e16fd185d8d4bf44998f2c4b5f055e5, type: 3}
+  - {fileID: 8300000, guid: 69bf0db1af1d5684faf611d7bda246a6, type: 3}
+  spellSounds:
+  - {fileID: 8300000, guid: 9fe6f5ccd6bfde04da20643c3f146400, type: 3}

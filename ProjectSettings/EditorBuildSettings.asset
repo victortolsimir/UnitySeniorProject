@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b7f5d8c7c8e36ff4c8ed3b8c6f5d30c8
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: ddf7a73fd3f390e4a8ac7d563b54c117
+  - enabled: 1
+    path: Assets/Scenes/CharacterCreation.unity
+    guid: 3dedc5fd10641f848852d346087905fa
+  - enabled: 1
+    path: Assets/Scenes/Town.unity
+    guid: 8a5028fd29cc3654e8f7421e9b8a4059
+  - enabled: 1
+    path: Assets/Scenes/Dungeon_Floor_1.unity
+    guid: 5a5c15000e28ce4408568b425e22b4ba
+  - enabled: 1
+    path: Assets/Scenes/Dungeon_Floor_2.unity
+    guid: 6eb56df8bc9f97047be986f5862b3073
+  - enabled: 1
+    path: Assets/Scenes/Dungeon_Floor_3.unity
+    guid: a2bbffa077014cc4eb852dc174714aa0
+  - enabled: 1
+    path: Assets/Scenes/Dungeon_Floor_4.unity
+    guid: 68e712375d0d47448ba35f36eff08e87
+  - enabled: 1
+    path: Assets/Scenes/Dungeon_Floor_5.unity
+    guid: 4feeb80af414c3a4eb8f97e9fbb78043
+  - enabled: 1
+    path: Assets/Scenes/Dungeon_Floor_5_1.unity
+    guid: ef42ed1fe4915cc46ae4d464eeb35bc9
+  - enabled: 1
+    path: Assets/Scenes/Dungeon_Floor_5_2.unity
+    guid: 634de8e4fd1d4484496142029f3e38d8
+  - enabled: 1
+    path: Assets/Scenes/Dungeon_Floor_5_3.unity
+    guid: a16d3848b54ee7b41985584cac9b0f13
+  - enabled: 1
+    path: Assets/Scenes/Battle.unity
+    guid: 8c938f8156033494fba246c38b9caabf
+  - enabled: 1
+    path: Assets/Scenes/BattleF2.unity
+    guid: 156d7dac40e4c4442891df84706184be
+  - enabled: 1
+    path: Assets/Scenes/BattleF3.unity
+    guid: 1549a28c12a3d5a4d8fa4a739fd292dc
+  - enabled: 1
+    path: Assets/Scenes/BattleF4.unity
+    guid: 9f608c8bfb02d4c488bdd91a0838640f
+  - enabled: 1
+    path: Assets/Scenes/BattleF5.unity
+    guid: 71c016c2fd6463845826a024e9d5b9a2
+  - enabled: 1
+    path: Assets/Scenes/BattleBoss1.unity
+    guid: a651990af3ddeca45938c7d203fb009b
+  - enabled: 1
+    path: Assets/Scenes/BattleBoss2.unity
+    guid: 9bcb265f89c1e3241bae4c3b770e156e
+  - enabled: 1
+    path: Assets/Scenes/BattleBoss3.unity
+    guid: 20c124317f146364fa56b18fe3d0f378
+  - enabled: 1
+    path: Assets/Scenes/BattleBoss4.unity
+    guid: 62ef6159c19f3314caa022b8b9d821f1
+  - enabled: 1
+    path: Assets/Scenes/BattleBoss5_1.unity
+    guid: 2fbcea08246ae88489b7375b28aae4ed
+  - enabled: 1
+    path: Assets/Scenes/BattleBoss5_2.unity
+    guid: 8579cbe73240c8c41895eccd2c58601d
+  - enabled: 1
+    path: Assets/Scenes/BattleBoss5_3.unity
+    guid: 15f11cf47ad6d124c96246136a62ac0c
+  - enabled: 1
+    path: Assets/Scenes/BattleBoss5_4.unity
+    guid: 3214b652a131ee64db56317867527a62
+  - enabled: 1
+    path: Assets/Scenes/Inn.unity
+    guid: 809618e26b4379541809d3cee314817f
+  - enabled: 1
+    path: Assets/Scenes/BattleTown.unity
+    guid: 2c5281101222f2b43acfe6b7417ec204
+  m_configObjects: {}

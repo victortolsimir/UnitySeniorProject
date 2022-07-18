@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6059334fe3c46124080f8b126f6415fe, type: 3}
+  m_Name: Floor 2 Basic
+  m_EditorClassIdentifier: 
+  lootTable:
+  - _itemsListSO: {fileID: 11400000, guid: 197cf04a240b6b441ad581179c618fae, type: 2}
+    _value: 40
+  - _itemsListSO: {fileID: 11400000, guid: 89407665779db35429701f410064b538, type: 2}
+    _value: 4
+  - _itemsListSO: {fileID: 11400000, guid: 2f9d357eaa9568b42be453e30b21f5d8, type: 2}
+    _value: 2
+  - _itemsListSO: {fileID: 11400000, guid: de907159c12e4164da5c4274395a388e, type: 2}
+    _value: 6
+  - _itemsListSO: {fileID: 11400000, guid: d15b00ed89444d24792539205abf7907, type: 2}
+    _value: 35
+  - _itemsListSO: {fileID: 11400000, guid: 91499466168e7c74db76ccf8afa3a751, type: 2}
+    _value: 3
+  - _itemsListSO: {fileID: 11400000, guid: 172928e0641a4324b8c21cf1671ec9d7, type: 2}
+    _value: 2
+  - _itemsListSO: {fileID: 11400000, guid: 2d7e85606a5d1a04b9180e9fad67c7db, type: 2}
+    _value: 6
+  uniqueLootTable: []

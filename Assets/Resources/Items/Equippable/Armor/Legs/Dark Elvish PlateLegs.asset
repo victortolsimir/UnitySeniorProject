@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Dark Elvish PlateLegs
+  m_EditorClassIdentifier: 
+  name: Dark Elvish PlateLegs
+  icon: {fileID: 21300000, guid: 57e8c9755a3ac774c8b0c71ea999f6f1, type: 3}
+  prefab: {fileID: 7742229607164324682, guid: c7140fba38cac2e42a88d5d1fbe749d7, type: 3}
+  weight: 4
+  description: Light elvish platelegs. The rare dark metal is enchanted with elven
+    magic to make it much lighter.
+  SellValue: 378
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 3
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 40
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 0
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 19
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: 1
+      modifiers: 
+    criticalChance:
+      baseValue: 2
+      modifiers: 
+    criticalDamage:
+      baseValue: 4
+      modifiers: 
+    physicalResist:
+      baseValue: 13
+      modifiers: 
+    magicResist:
+      baseValue: 13
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 256985108417065451, guid: cada334135945554488c7aa0f9ce9a61,
+    type: 3}
+  femaleItemPieces: {fileID: 7183699607617293930, guid: 7bef6cece061a644ea2e8677e039385f,
+    type: 3}
+  disable_hair: 0
+  disable_facialHair: 0
+  disable_head: 0
+  disable_body: 0
+  disable_hands: 0
+  disable_legs: 1
+  disable_feet: 0
+  armorColorBlock: {fileID: 11400000, guid: a50df92e392cef247813dbc9e7099b5b, type: 2}

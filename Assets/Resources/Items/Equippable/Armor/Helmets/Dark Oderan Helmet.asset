@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Dark Oderan Helmet
+  m_EditorClassIdentifier: 
+  name: Dark Oderan Helmet
+  icon: {fileID: 21300000, guid: 1b593fb0d2712d94d99a25291101c59f, type: 3}
+  prefab: {fileID: 7751002306846613976, guid: cc53f8eb3023ad3478b0dbc87164e6c2, type: 3}
+  weight: 20
+  description: A heavily armored helmet, from the fortress tower's of Oderan. It
+    is forged from rare dark metal.
+  SellValue: 284
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 0
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 108
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: -13
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: -13
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: -1
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 67
+      modifiers: 
+    magicResist:
+      baseValue: 67
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 2218845370534317515, guid: fb45c511caf59fe4b919815db4d8eb02,
+    type: 3}
+  femaleItemPieces: {fileID: 0}
+  disable_hair: 1
+  disable_facialHair: 1
+  disable_head: 1
+  disable_body: 0
+  disable_hands: 0
+  disable_legs: 0
+  disable_feet: 0
+  armorColorBlock: {fileID: 11400000, guid: 81905539300ca004d8a00e12d28fbf97, type: 2}

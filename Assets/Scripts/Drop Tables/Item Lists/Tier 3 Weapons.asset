@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9c8c7c14777d494d9b383ca6c5d5054, type: 3}
+  m_Name: Tier 3 Weapons
+  m_EditorClassIdentifier: 
+  _items:
+  - {fileID: 11400000, guid: 83d8689462e612a4c9562a33e97c4cb0, type: 2}
+  - {fileID: 11400000, guid: 3d29b95cf62b2b347a66bd2cb5c99acd, type: 2}
+  - {fileID: 11400000, guid: c9875d91d49174c44bd6f0b1828aca91, type: 2}
+  - {fileID: 11400000, guid: 8db69fd2e2357a347a3fc9ca62b73e92, type: 2}

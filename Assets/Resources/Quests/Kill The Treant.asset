@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca8e45d7dcc2c624da5dbcf96e1b4446, type: 3}
+  m_Name: Kill The Treant
+  m_EditorClassIdentifier: 
+  _prerequisiteQuest: {fileID: 11400000, guid: 9286f0f68d1a548498bbd37f96f4a601, type: 2}
+  _specialItem: {fileID: 11400000, guid: 2a2b06296b8fd1742a4af22747f46e64, type: 2}
+  _questName: I am Grut
+  _description: Defeat the so called Grut on floor 2.
+  _introQuestDialogue: Someone has been groaning "I am Grut" in the dungeon. Can
+    you kill this Grut.
+  _activeQuestDialogue: Have you shut Grut's yap yet?
+  _completedQuestDialogue: Finally I can sleep in peace at night! Thank you so much!
+  _goldReward: 150
+  _itemRewards:
+  - {fileID: 11400000, guid: 44ffeca24b0a4d54a90e3619fcf836b1, type: 2}
+  - {fileID: 11400000, guid: 4b91bcc19255a1c42b588d2ade419325, type: 2}
+  - {fileID: 11400000, guid: 0e59e6c7664e70c4cb01b62de630c6dd, type: 2}
+  - {fileID: 11400000, guid: d5c12dfee6ef1c040ad41cb06839f018, type: 2}
+  goal:
+    _description: Defeat Grut
+    _enemyID: {fileID: 11400000, guid: ee7c821b055c9214caf340975112d69f, type: 2}
+    bossExclusions: {fileID: 11400000, guid: 0c7ce13a0db8a5c4295f8e7e2fe94e46, type: 2}

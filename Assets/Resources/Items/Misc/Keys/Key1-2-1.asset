@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b7e19da91b69914bbeb89c8db1634a1, type: 3}
+  m_Name: Key1-2-1
+  m_EditorClassIdentifier: 
+  name: Key
+  icon: {fileID: 21300000, guid: e69b193b4964d4346a01825edc15e2b7, type: 3}
+  prefab: {fileID: 3066496789367694677, guid: 29c83d57eb447a5468dc0524643cd70d, type: 3}
+  weight: 0
+  description: This key is required to enter the final chamber of the first floor.
+    Good luck!
+  SellValue: 0
+  stackable: 0
+  disableUse: 1
+  disableDrop: 1

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8abf9b2e6fa53444f8a534e980273352, type: 3}
+  m_Name: Stu Battle Pack
+  m_EditorClassIdentifier: 
+  deathSounds:
+  - {fileID: 8300000, guid: 78d4d94483857284884497ec62283632, type: 3}
+  damageTakenSounds:
+  - {fileID: 8300000, guid: 8a91ce89aa87cb349abfa3a6750f28f9, type: 3}
+  - {fileID: 8300000, guid: 14732c4c54758e4458e4913bb6f9ebe4, type: 3}
+  - {fileID: 8300000, guid: c501f9b7805bc36429517312a902470e, type: 3}
+  - {fileID: 8300000, guid: 4630103a41b10414993e8195bb0418d3, type: 3}
+  - {fileID: 8300000, guid: 7c447b7270367cb48a39fc311f833b73, type: 3}
+  - {fileID: 8300000, guid: 431e230e628265d40a68612984d156e3, type: 3}
+  - {fileID: 8300000, guid: 7f08f714e5f52ca4781d8b49d88e0aeb, type: 3}
+  attackSounds:
+  - {fileID: 8300000, guid: be856470adf97d84489be6480eee1b2f, type: 3}
+  - {fileID: 8300000, guid: cdcad1a2cdc0e554a9c1df610ddbfe09, type: 3}
+  - {fileID: 8300000, guid: 0ba1e1c4cb7319c409bb879782c1a3de, type: 3}
+  - {fileID: 8300000, guid: 341644060ce29f54db659ce34c47862a, type: 3}
+  spellSounds:
+  - {fileID: 8300000, guid: be856470adf97d84489be6480eee1b2f, type: 3}
+  - {fileID: 8300000, guid: cdcad1a2cdc0e554a9c1df610ddbfe09, type: 3}
+  - {fileID: 8300000, guid: 0ba1e1c4cb7319c409bb879782c1a3de, type: 3}
+  - {fileID: 8300000, guid: 341644060ce29f54db659ce34c47862a, type: 3}

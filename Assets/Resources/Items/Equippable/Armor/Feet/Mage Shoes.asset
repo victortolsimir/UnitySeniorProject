@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Mage Shoes
+  m_EditorClassIdentifier: 
+  name: Mage Shoes
+  icon: {fileID: 21300000, guid: 80631fddc25222a4f9d416db641e2bca, type: 3}
+  prefab: {fileID: 8348053857306158846, guid: 1f710bbb995d18d419bc4438d372c9aa, type: 3}
+  weight: 2
+  description: Mage Shoes forged from grass.
+  SellValue: 55
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 4
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 6
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 6
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 0
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: 0
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 2
+      modifiers: 
+    magicResist:
+      baseValue: 6
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 1363155135099092232, guid: 42730e73a99088746b0bbc125b077141,
+    type: 3}
+  femaleItemPieces: {fileID: 4181631394252770666, guid: 634a475c146d3e14ab9f7502597b6b81,
+    type: 3}
+  disable_hair: 0
+  disable_facialHair: 0
+  disable_head: 0
+  disable_body: 0
+  disable_hands: 0
+  disable_legs: 0
+  disable_feet: 1
+  armorColorBlock: {fileID: 11400000, guid: 55739fc08502dbc40be75df5109225ad, type: 2}

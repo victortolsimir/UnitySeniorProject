@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Mithril Elvish PlateBody
+  m_EditorClassIdentifier: 
+  name: Mithril Elvish PlateBody
+  icon: {fileID: 21300000, guid: 6f92b69c8a64ecc45a5bf04844dc9209, type: 3}
+  prefab: {fileID: 7634945987091287301, guid: 48544ce4f36a32e428492afa3e5c61fa, type: 3}
+  weight: 8
+  description: A light elvish platebody. The mithril metal is enchanted with elven
+    magic to make it much lighter.
+  SellValue: 504
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 1
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 54
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 0
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 27
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: 2
+      modifiers: 
+    criticalChance:
+      baseValue: 2
+      modifiers: 
+    criticalDamage:
+      baseValue: 4
+      modifiers: 
+    physicalResist:
+      baseValue: 18
+      modifiers: 
+    magicResist:
+      baseValue: 18
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 8340165875074995310, guid: 9335af96e2bd9974eb7049786346cb1d,
+    type: 3}
+  femaleItemPieces: {fileID: 8472369296420799176, guid: a3463c192711f1349ac0905b6358c2ec,
+    type: 3}
+  disable_hair: 0
+  disable_facialHair: 0
+  disable_head: 0
+  disable_body: 1
+  disable_hands: 0
+  disable_legs: 0
+  disable_feet: 0
+  armorColorBlock: {fileID: 11400000, guid: e16c355153a414c4b948f5a5d5c3d38f, type: 2}

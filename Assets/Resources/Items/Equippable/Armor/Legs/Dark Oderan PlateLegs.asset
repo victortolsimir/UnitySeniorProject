@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Dark Oderan PlateLegs
+  m_EditorClassIdentifier: 
+  name: Dark Oderan PlateLegs
+  icon: {fileID: 21300000, guid: 06734ee613f59ac46a4907570673d3c9, type: 3}
+  prefab: {fileID: 3851755297863480739, guid: 127907847388c0a4a977a38b4337745f, type: 3}
+  weight: 20
+  description: Heavily armored platelegs, from the fortress tower's of Oderan. They
+    are forged from rare dark metal.
+  SellValue: 378
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 3
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 108
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: -13
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: -13
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: -1
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 67
+      modifiers: 
+    magicResist:
+      baseValue: 67
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 3108529209325923242, guid: 6698ff3eaf2004d42b74fa9a7a36bcb9,
+    type: 3}
+  femaleItemPieces: {fileID: 1679536488171860759, guid: ac328fe4fa4c22b4d9a31d544b3378a9,
+    type: 3}
+  disable_hair: 0
+  disable_facialHair: 0
+  disable_head: 0
+  disable_body: 0
+  disable_hands: 0
+  disable_legs: 1
+  disable_feet: 0
+  armorColorBlock: {fileID: 11400000, guid: 81905539300ca004d8a00e12d28fbf97, type: 2}

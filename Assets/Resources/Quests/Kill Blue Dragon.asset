@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca8e45d7dcc2c624da5dbcf96e1b4446, type: 3}
+  m_Name: Kill Blue Dragon
+  m_EditorClassIdentifier: 
+  _prerequisiteQuest: {fileID: 11400000, guid: ffbbc829cdf8b4b45b13a6c52fb95a11, type: 2}
+  _specialItem: {fileID: 0}
+  _questName: Investigate the West
+  _description: You need to investigate the west of the 5th floor. Chances are there
+    is a dragon waiting for you there.
+  _introQuestDialogue: Whoever is behind this is hiding somewhere on the 5th floor.
+    Go find them and be careful there might be a dragon somewhere.
+  _activeQuestDialogue: Hey! Go investigate!
+  _completedQuestDialogue: Oh jebus! There was a dragon on the west side?? Well thankgoodness
+    you slayed it!
+  _goldReward: 300
+  _itemRewards:
+  - {fileID: 11400000, guid: 481cabeff702b1e4f9cec8cdc0cef640, type: 2}
+  - {fileID: 11400000, guid: 4b91bcc19255a1c42b588d2ade419325, type: 2}
+  - {fileID: 11400000, guid: 739a9a5cb618fe7409ec38fa393a253b, type: 2}
+  - {fileID: 11400000, guid: 3abc13406b503664fbc9875ced76af53, type: 2}
+  goal:
+    _description: Investiate the west side of the 5th floor
+    _enemyID: {fileID: 11400000, guid: d408bf6cf95f13d4c93e258c2c385d7b, type: 2}
+    bossExclusions: {fileID: 11400000, guid: 0c7ce13a0db8a5c4295f8e7e2fe94e46, type: 2}

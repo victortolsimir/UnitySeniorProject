@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3b23da25bcddc849991c4a14fa5b837, type: 3}
+  m_Name: Oak Mage Staff
+  m_EditorClassIdentifier: 
+  name: Oak Mage Staff
+  icon: {fileID: 21300000, guid: c544f3b1f1cb40c4f97c6936715a0722, type: 3}
+  prefab: {fileID: 7959902300343614497, guid: 5cb4c622286b9cb44af4249871746ee1, type: 3}
+  weight: 20
+  description: A basic wooden staff, carved with oak and entwined with wooden roots.
+  SellValue: 100
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 5
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 10
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 40
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 0
+    physicalDamage:
+      baseValue: 5
+      modifiers: 
+    magicDamage:
+      baseValue: 30
+      modifiers: 
+    attackSpeed:
+      baseValue: 0
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 0
+      modifiers: 
+    magicResist:
+      baseValue: 20
+      modifiers: 
+  mesh: {fileID: 772938074427152627, guid: fea1ac56398846d438925cac3cc8e70e, type: 3}
+  _defaultAbilities: {fileID: 11400000, guid: a7c85958178ad4a4ca42784409cdc9e8, type: 2}
+  uniqueAbilities: []

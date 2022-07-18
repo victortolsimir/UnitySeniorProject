@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cdc71b651861f74f8a9dbf8f07e36a9, type: 3}
+  m_Name: Kill Cobras
+  m_EditorClassIdentifier: 
+  _prerequisiteQuest: {fileID: 11400000, guid: 62eb41afc6af6044a9ae3b4bb481448f, type: 2}
+  _specialItem: {fileID: 11400000, guid: 6c296e034ade87f40a3f99ce25abfd2c, type: 2}
+  _questName: Snakes! Snakes! More Snakes!
+  _description: The followers of The King Cobra have gathered on the 4th floor. You
+    need to kill them and stop wat they're planning!
+  _introQuestDialogue: Cobras have gathered in the 4th floo. Please defeat them and
+    stop their plans.
+  _activeQuestDialogue: You haven't stopped them yet...
+  _completedQuestDialogue: Thank you for stopping them! I wish we knew why they gathered
+    or who organized it... hhmm
+  _goldReward: 250
+  _itemRewards:
+  - {fileID: 11400000, guid: a384c94ba22e4c948b610738e7ef0fbc, type: 2}
+  - {fileID: 11400000, guid: 4b91bcc19255a1c42b588d2ade419325, type: 2}
+  - {fileID: 11400000, guid: 7b8ec957340cd9845bfacbe8b4b18ae5, type: 2}
+  - {fileID: 11400000, guid: 54d4b6b7457c3dc40a6bc124a75d9ee1, type: 2}
+  goals:
+  - _description: Kill cobras
+    _enemyType: 7
+    _currentAmount: 0
+    _requiredAmount: 9

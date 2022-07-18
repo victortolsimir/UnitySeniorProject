@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6059334fe3c46124080f8b126f6415fe, type: 3}
+  m_Name: Floor 1 Silver Chest
+  m_EditorClassIdentifier: 
+  lootTable:
+  - _itemsListSO: {fileID: 11400000, guid: 89407665779db35429701f410064b538, type: 2}
+    _value: 8
+  - _itemsListSO: {fileID: 11400000, guid: 2f9d357eaa9568b42be453e30b21f5d8, type: 2}
+    _value: 5
+  - _itemsListSO: {fileID: 11400000, guid: de907159c12e4164da5c4274395a388e, type: 2}
+    _value: 40
+  - _itemsListSO: {fileID: 11400000, guid: de907159c12e4164da5c4274395a388e, type: 2}
+    _value: 40
+  uniqueLootTable:
+  - _item: {fileID: 11400000, guid: 3b4035e2229bfb74d9c2f60e10f9ee57, type: 2}
+    _value: 100

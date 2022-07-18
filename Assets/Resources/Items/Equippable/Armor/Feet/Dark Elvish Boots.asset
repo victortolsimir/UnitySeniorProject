@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Dark Elvish Boots
+  m_EditorClassIdentifier: 
+  name: Dark Elvish Boots
+  icon: {fileID: 21300000, guid: f1eb83a381b17fc47b3eaa207319e890, type: 3}
+  prefab: {fileID: 1203933996597019347, guid: 10bfd4a1ca8ee8f43ad704d0ab21a251, type: 3}
+  weight: 2
+  description: A pair of light elvish boots. The rare dark metal is enchanted with
+    elven magic to make it much lighter.
+  SellValue: 189
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 4
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 19
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 0
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 9
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: 1
+      modifiers: 
+    criticalChance:
+      baseValue: 2
+      modifiers: 
+    criticalDamage:
+      baseValue: 4
+      modifiers: 
+    physicalResist:
+      baseValue: 6
+      modifiers: 
+    magicResist:
+      baseValue: 6
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 3500457242481513094, guid: 6e3c60d9aded71d41b0a36d2e179084c,
+    type: 3}
+  femaleItemPieces: {fileID: 3166547496674362107, guid: 8fea7e2e4d4c21a4f83f5194453f3e0c,
+    type: 3}
+  disable_hair: 0
+  disable_facialHair: 0
+  disable_head: 0
+  disable_body: 0
+  disable_hands: 0
+  disable_legs: 0
+  disable_feet: 1
+  armorColorBlock: {fileID: 11400000, guid: a50df92e392cef247813dbc9e7099b5b, type: 2}

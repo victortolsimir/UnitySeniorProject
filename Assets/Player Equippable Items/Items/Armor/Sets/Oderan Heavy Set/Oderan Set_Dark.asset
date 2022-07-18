@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28418243322f89442a9d747b765c52dc, type: 3}
+  m_Name: Oderan Set_Dark
+  m_EditorClassIdentifier: 
+  Primary: {r: 0, g: 0, b: 0, a: 1}
+  Secondary: {r: 0.16078432, g: 0.16078432, b: 0.16078432, a: 1}
+  Leather_Primary: {r: 0.24705884, g: 0.14901961, b: 0.09411766, a: 1}
+  Metal_Primary: {r: 0.07450981, g: 0.07450981, b: 0.07450981, a: 1}
+  Leather_Secondary: {r: 0.32941177, g: 0.22352943, b: 0.098039225, a: 1}
+  Metal_Dark: {r: 0.4039216, g: 0.4039216, b: 0.4039216, a: 1}
+  Metal_Secondary: {r: 0.14901961, g: 0.14901961, b: 0.14901961, a: 1}

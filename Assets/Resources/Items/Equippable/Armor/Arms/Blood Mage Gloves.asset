@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Blood Mage Gloves
+  m_EditorClassIdentifier: 
+  name: Blood Mage Gloves
+  icon: {fileID: 21300000, guid: b3d488e885762a04e8bbe4dab0f9519f, type: 3}
+  prefab: {fileID: 4805420530536184907, guid: 5c3d88818d8c2c0468dd2c4b7b49d0f9, type: 3}
+  weight: 2
+  description: Mage gloves enchanted with blood magic.
+  SellValue: 189
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 2
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 14
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 14
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 0
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 12
+      modifiers: 
+    attackSpeed:
+      baseValue: 0
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 5
+      modifiers: 
+    magicResist:
+      baseValue: 14
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 1448575486642908736, guid: 3c12dcd0ab5e55f48bdfd13c0fea8368,
+    type: 3}
+  femaleItemPieces: {fileID: 0}
+  disable_hair: 0
+  disable_facialHair: 0
+  disable_head: 0
+  disable_body: 0
+  disable_hands: 1
+  disable_legs: 0
+  disable_feet: 0
+  armorColorBlock: {fileID: 11400000, guid: e0ba8f9f5007032488d2928965c09e3c, type: 2}

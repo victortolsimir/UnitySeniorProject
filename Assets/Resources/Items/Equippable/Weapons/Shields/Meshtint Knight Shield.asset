@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 072a7664efce4cc47866206031c571b1, type: 3}
+  m_Name: Meshtint Knight Shield
+  m_EditorClassIdentifier: 
+  name: Meshtint Knight Sheld
+  icon: {fileID: 21300000, guid: 90d9fdcc840ebe344b831e5a2769994e, type: 3}
+  prefab: {fileID: 1445897159094890429, guid: 53494704881701c4bb3c19f27e5f3c2c, type: 3}
+  weight: 25
+  description: Shield wielded by the infamous Meshtint Knight himself.
+  SellValue: 180
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 6
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 35
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 0
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 0
+    physicalDamage:
+      baseValue: 6
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: 0
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 65
+      modifiers: 
+    magicResist:
+      baseValue: 35
+      modifiers: 
+  mesh: {fileID: 1967917405799879594, guid: 84a700662d9ccd84bafe8c6d933366cc, type: 3}
+  _defaultAbilities: {fileID: 11400000, guid: d82606ad87d22a043b07910beb49f73b, type: 2}
+  uniqueAbilities: []

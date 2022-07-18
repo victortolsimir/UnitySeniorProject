@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca8e45d7dcc2c624da5dbcf96e1b4446, type: 3}
+  m_Name: Kill the Wolf
+  m_EditorClassIdentifier: 
+  _prerequisiteQuest: {fileID: 11400000, guid: 7a2258ce9a0e88c4baf29547ffe8f5e2, type: 2}
+  _specialItem: {fileID: 0}
+  _questName: The Full Moon Glows Bright
+  _description: There is a creature guarding the entrance to the 5th floor. Go defeat
+    the creature.
+  _introQuestDialogue: There has been howling the past 2 days coming froTo get to
+    the 5th floor you need to defeat the one guarding the 5th floor entrance.
+  _activeQuestDialogue: Hurry! There might be some information on what has bringing
+    the creatures into the dungeon.
+  _completedQuestDialogue: So there is someone creating these creatures....
+  _goldReward: 260
+  _itemRewards:
+  - {fileID: 11400000, guid: b7a777fb61034ce408bb387cffac7bf6, type: 2}
+  - {fileID: 11400000, guid: b3d82ff3ddcdc7e40bb7ec9632d47e0a, type: 2}
+  - {fileID: 11400000, guid: 4b91bcc19255a1c42b588d2ade419325, type: 2}
+  - {fileID: 11400000, guid: e6d2d6d912606b5409342b4f14759fdb, type: 2}
+  goal:
+    _description: Kill the guardian of the 5th floor
+    _enemyID: {fileID: 11400000, guid: ffcc56ae2dc42454bbb52a0f08109661, type: 2}
+    bossExclusions: {fileID: 11400000, guid: 0c7ce13a0db8a5c4295f8e7e2fe94e46, type: 2}

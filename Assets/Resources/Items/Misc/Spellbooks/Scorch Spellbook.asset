@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f1772fe5c0b8d54ebfc1b0e9e3434c6, type: 3}
+  m_Name: Scorch Spellbook
+  m_EditorClassIdentifier: 
+  name: Scorch Spellbook
+  icon: {fileID: 21300000, guid: 0f3819bfc2c86cc47beecd63696d7711, type: 3}
+  prefab: {fileID: 7619278670827189000, guid: 32c2dd988ae13e346a7df4ef73a7df48, type: 3}
+  weight: 1
+  description: Unlocks the Scorch Spell.
+  SellValue: 100
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  spell: {fileID: 11400000, guid: b6f0867aa0be1a645b1eb2c1e9d90f80, type: 2}

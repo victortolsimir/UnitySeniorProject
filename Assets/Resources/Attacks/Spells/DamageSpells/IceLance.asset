@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2f396f6c90af045938bf7f97311338, type: 3}
+  m_Name: IceLance
+  m_EditorClassIdentifier: 
+  name: Ice Lance
+  description: Hurl a shard of ice at the enemy, piercing all magic resistance.
+  cost: 15
+  debuffEffects: 0
+  buffEffects: 0
+  _spellMultiplier: 0.75
+  _baseValue: 12
+  magicPen: 1
+  projectilePrefab: {fileID: 4080629197430698890, guid: 151514378d843e2408bd36346b92c11c,
+    type: 3}

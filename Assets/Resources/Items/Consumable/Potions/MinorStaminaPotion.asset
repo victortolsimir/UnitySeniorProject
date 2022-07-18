@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8073a6aec1c74a3458777701701fbbd5, type: 3}
+  m_Name: MinorStaminaPotion
+  m_EditorClassIdentifier: 
+  name: Minor Stamina Potion
+  icon: {fileID: 21300000, guid: 091b8a607aeb012498cb1c2f416ced87, type: 3}
+  prefab: {fileID: 3317740207145339147, guid: 062f8d0d8d3d82a40aeb0cc297b81bd7, type: 3}
+  weight: 0.3
+  description: Recovers a minor amount of stamina
+  SellValue: 15
+  stackable: 1
+  restoreValue: 25

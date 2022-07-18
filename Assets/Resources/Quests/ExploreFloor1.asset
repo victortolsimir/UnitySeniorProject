@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca8e45d7dcc2c624da5dbcf96e1b4446, type: 3}
+  m_Name: ExploreFloor1
+  m_EditorClassIdentifier: 
+  _prerequisiteQuest: {fileID: 11400000, guid: 99696aa89c743bd43a3dbf11974f731c, type: 2}
+  _specialItem: {fileID: 11400000, guid: f12ae0f1292babe43808a9bb4a49e134, type: 2}
+  _questName: Explore The Dungeon
+  _description: Explore the first floor and Find Kev
+  _introQuestDialogue: My pet chicken Kev has gone missing. I think he may have wandered
+    into the castle can you find him?
+  _activeQuestDialogue: Did you find my baby yet?? No? Okay... keep looking I miss
+    him...
+  _completedQuestDialogue: Kev mutated into a giant chicken that you had to kill??
+    Oh god...
+  _goldReward: 100
+  _itemRewards:
+  - {fileID: 11400000, guid: 70c1d2123323e854dbad32b397f3b3d9, type: 2}
+  - {fileID: 11400000, guid: f925f654bd94f9847a59967db6189153, type: 2}
+  goal:
+    _description: Find Kev
+    _enemyID: {fileID: 11400000, guid: a05d3225591f5844ba0ef6c200da079a, type: 2}
+    bossExclusions: {fileID: 11400000, guid: 0c7ce13a0db8a5c4295f8e7e2fe94e46, type: 2}

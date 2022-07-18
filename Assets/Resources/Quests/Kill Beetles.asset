@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cdc71b651861f74f8a9dbf8f07e36a9, type: 3}
+  m_Name: Kill Beetles
+  m_EditorClassIdentifier: 
+  _prerequisiteQuest: {fileID: 11400000, guid: 8248fbc42158a5348822611bc0d94c2a, type: 2}
+  _specialItem: {fileID: 11400000, guid: 9ad8111864536244c9267e87c4afba0f, type: 2}
+  _questName: Kill Beetles
+  _description: Kill beetles because beetles stink.
+  _introQuestDialogue: Go kill some beetles for me they've been stinking up the dungeon
+  _activeQuestDialogue: Hurry! This smells worse than rotten eggs!
+  _completedQuestDialogue: Great! Now I can breathe fresh air!
+  _goldReward: 100
+  _itemRewards:
+  - {fileID: 11400000, guid: b87d08daef8100549bac47db319d4e1c, type: 2}
+  - {fileID: 11400000, guid: 3c9679c98d4dc474da1d2c4df57c10e7, type: 2}
+  goals:
+  - _description: Kill beetles
+    _enemyType: 1
+    _currentAmount: 0
+    _requiredAmount: 4

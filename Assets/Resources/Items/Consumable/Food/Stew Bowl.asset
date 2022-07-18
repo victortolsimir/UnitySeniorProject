@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c33c52bb144f23b488c900f1d7d844ce, type: 3}
+  m_Name: Stew Bowl
+  m_EditorClassIdentifier: 
+  name: Stew Bowl
+  icon: {fileID: 21300000, guid: f7d37362ebd7c33478018d2e9b9162fa, type: 3}
+  prefab: {fileID: 64997056293985333, guid: 6e3b849a3c079034d941f163464ea676, type: 3}
+  weight: 0.8
+  description: A delicious meaty stew. The broth tastes great with the tender meat
+    and vegetables.
+  SellValue: 15
+  stackable: 0
+  restoreValue: 45

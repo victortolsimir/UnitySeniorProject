@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f1772fe5c0b8d54ebfc1b0e9e3434c6, type: 3}
+  m_Name: Greater Heal Spellbook
+  m_EditorClassIdentifier: 
+  name: Greater Heal Spellbook
+  icon: {fileID: 21300000, guid: db67216da1df66c459e2f6f762f67097, type: 3}
+  prefab: {fileID: 5375332769015722644, guid: c1d52d1630a12794f9cabb9ddc8aec38, type: 3}
+  weight: 1
+  description: Unlocks the Greater Heal Spell
+  SellValue: 100
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  spell: {fileID: 11400000, guid: 47562847fe0ea2649a9ad4bea5728431, type: 2}

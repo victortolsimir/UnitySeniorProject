@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3b23da25bcddc849991c4a14fa5b837, type: 3}
+  m_Name: Battle Staff
+  m_EditorClassIdentifier: 
+  name: Battle Staff
+  icon: {fileID: 21300000, guid: bd8be5354b3b0634c9ee335955bd1eb6, type: 3}
+  prefab: {fileID: 6080173782059463206, guid: 4f8d92fda5025894c8c96ebf6182027c, type: 3}
+  weight: 20
+  description: Battle Staff that is hardened for increased physical damage.
+  SellValue: 160
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 5
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 15
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 60
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 0
+    physicalDamage:
+      baseValue: 12
+      modifiers: 
+    magicDamage:
+      baseValue: 45
+      modifiers: 
+    attackSpeed:
+      baseValue: 0
+      modifiers: 
+    criticalChance:
+      baseValue: 5
+      modifiers: 
+    criticalDamage:
+      baseValue: 10
+      modifiers: 
+    physicalResist:
+      baseValue: 0
+      modifiers: 
+    magicResist:
+      baseValue: 30
+      modifiers: 
+  mesh: {fileID: 7884584418374299025, guid: aa6b18e8fcd46ef4cb3830d2f8536750, type: 3}
+  _defaultAbilities: {fileID: 11400000, guid: a7c85958178ad4a4ca42784409cdc9e8, type: 2}
+  uniqueAbilities: []

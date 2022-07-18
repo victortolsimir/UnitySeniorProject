@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Crimson Elvish Helmet
+  m_EditorClassIdentifier: 
+  name: Crimson Elvish Helmet
+  icon: {fileID: 21300000, guid: 0d4f770013fd00e44bd7f49e30c51ca6, type: 3}
+  prefab: {fileID: 5815514383075056110, guid: 9d3dadbe77558584f89923e2b810059b, type: 3}
+  weight: 4
+  description: A light elvish helmet. The blood metal is enchanted with elven magic
+    to make it much lighter.
+  SellValue: 126
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 0
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 18
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 0
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 9
+    physicalDamage:
+      baseValue: 0
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: 1
+      modifiers: 
+    criticalChance:
+      baseValue: 2
+      modifiers: 
+    criticalDamage:
+      baseValue: 4
+      modifiers: 
+    physicalResist:
+      baseValue: 6
+      modifiers: 
+    magicResist:
+      baseValue: 6
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 752556069165886418, guid: bc4e4194c00782644a95e142e862aa1d,
+    type: 3}
+  femaleItemPieces: {fileID: 0}
+  disable_hair: 1
+  disable_facialHair: 0
+  disable_head: 0
+  disable_body: 0
+  disable_hands: 0
+  disable_legs: 0
+  disable_feet: 0
+  armorColorBlock: {fileID: 11400000, guid: 9e4ea3b86dd2f5842a152fb4f2fe6a12, type: 2}

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eddc4e65f4c4bf6469181699f26f9574, type: 3}
+  m_Name: Steel Soldier Gloves
+  m_EditorClassIdentifier: 
+  name: Steel Soldier Gloves
+  icon: {fileID: 21300000, guid: 3457ddc6a78127040b374f3b34d3d318, type: 3}
+  prefab: {fileID: 1616025999617188991, guid: c4aa9a890b9e4694ea8572216a4ac420, type: 3}
+  weight: 6
+  description: Soldier gloves forged from steel.
+  SellValue: 82
+  stackable: 0
+  disableUse: 0
+  disableDrop: 0
+  equipSlot: 2
+  stats:
+    maxHealth:
+      baseValue: 0
+      modifiers: 
+    currentHealth: 12
+    maxMana:
+      baseValue: 0
+      modifiers: 
+    currentMana: 0
+    maxStamina:
+      baseValue: 0
+      modifiers: 
+    currentStamina: 0
+    physicalDamage:
+      baseValue: 5
+      modifiers: 
+    magicDamage:
+      baseValue: 0
+      modifiers: 
+    attackSpeed:
+      baseValue: 0
+      modifiers: 
+    criticalChance:
+      baseValue: 0
+      modifiers: 
+    criticalDamage:
+      baseValue: 0
+      modifiers: 
+    physicalResist:
+      baseValue: 4
+      modifiers: 
+    magicResist:
+      baseValue: 4
+      modifiers: 
+  isCape: 0
+  itemPieces: {fileID: 1758464586438258710, guid: 29e4d9d8c6ef8dc4ebe1f2eb5e8bb1c1,
+    type: 3}
+  femaleItemPieces: {fileID: 0}
+  disable_hair: 0
+  disable_facialHair: 0
+  disable_head: 0
+  disable_body: 0
+  disable_hands: 1
+  disable_legs: 0
+  disable_feet: 0
+  armorColorBlock: {fileID: 0}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca8e45d7dcc2c624da5dbcf96e1b4446, type: 3}
+  m_Name: Kill Red Dragon
+  m_EditorClassIdentifier: 
+  _prerequisiteQuest: {fileID: 11400000, guid: c28f09e3884886c4aa35a37d4702bc96, type: 2}
+  _specialItem: {fileID: 0}
+  _questName: Flames of the Red Sea
+  _description: Investigate the east side. The mastermind might be there!
+  _introQuestDialogue: Now go investigate the east side. Surely there can't be another
+    dragon there.
+  _activeQuestDialogue: Hurry we need you to stop whoever is doing this!
+  _completedQuestDialogue: Oh no... there wa another dragon there?? But what they
+    said... Does this mean those two dragons we not the one he was trying to ressurect??
+  _goldReward: 320
+  _itemRewards:
+  - {fileID: 11400000, guid: 442257256249e0c4a89823adac7e0aee, type: 2}
+  - {fileID: 11400000, guid: 6f68b9fa566008844b77d6890ba7e454, type: 2}
+  - {fileID: 11400000, guid: 4b91bcc19255a1c42b588d2ade419325, type: 2}
+  - {fileID: 11400000, guid: 20a740346a0849540ae8a225da6498f8, type: 2}
+  goal:
+    _description: Investigate the east side
+    _enemyID: {fileID: 11400000, guid: 5d41e39092df27140ac41bbdf541251f, type: 2}
+    bossExclusions: {fileID: 11400000, guid: 0c7ce13a0db8a5c4295f8e7e2fe94e46, type: 2}
